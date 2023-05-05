@@ -18,7 +18,7 @@ The starter code was found in the coding boot camp GitHub repo. I cloned the rep
 
 The website is used to show what I have learned so far as a bootcamp student. The best way to view it is on Google Chrome and you can inspect the elements in Chrome DevTools.
 
-![Website Example](https://vscode.dev/github/cmdnguyen/Horiseon-Module/blob/main/assets/images/Horiseon%20Webpage.png)
+![Website Example](.\assets\images\HoriseonWebpage.png)
 
 ## Credits
 
