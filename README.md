@@ -18,6 +18,8 @@ The starter code was found in the coding boot camp GitHub repo. I cloned the rep
 
 The website is used to show what I have learned so far as a bootcamp student. The best way to view it is on Google Chrome and you can inspect the elements in Chrome DevTools.
 
+[Alttext](\assets\images\Horiseon Webpage.png)
+
 ## Credits
 
 Starter code: github.com/coding-boot-camp/urban-octo-telegram
